@@ -1,4 +1,4 @@
-module github.com/u-root/uio
+module github.com/seekstar/uio
 
 go 1.15
 
